@@ -1,0 +1,6 @@
+C:\Users\iamdo\OneDrive\Desktop\Basic_C#_Programs\AcmeWelcomeScreen.cs\AcmeWelcomeScreen.cs\bin\Debug\AcmeWelcomeScreen.cs.exe.config
+C:\Users\iamdo\OneDrive\Desktop\Basic_C#_Programs\AcmeWelcomeScreen.cs\AcmeWelcomeScreen.cs\bin\Debug\AcmeWelcomeScreen.cs.exe
+C:\Users\iamdo\OneDrive\Desktop\Basic_C#_Programs\AcmeWelcomeScreen.cs\AcmeWelcomeScreen.cs\bin\Debug\AcmeWelcomeScreen.cs.pdb
+C:\Users\iamdo\OneDrive\Desktop\Basic_C#_Programs\AcmeWelcomeScreen.cs\AcmeWelcomeScreen.cs\obj\Debug\AcmeWelcomeScreen.cs.csproj.CoreCompileInputs.cache
+C:\Users\iamdo\OneDrive\Desktop\Basic_C#_Programs\AcmeWelcomeScreen.cs\AcmeWelcomeScreen.cs\obj\Debug\AcmeWelcomeScreen.cs.exe
+C:\Users\iamdo\OneDrive\Desktop\Basic_C#_Programs\AcmeWelcomeScreen.cs\AcmeWelcomeScreen.cs\obj\Debug\AcmeWelcomeScreen.cs.pdb
