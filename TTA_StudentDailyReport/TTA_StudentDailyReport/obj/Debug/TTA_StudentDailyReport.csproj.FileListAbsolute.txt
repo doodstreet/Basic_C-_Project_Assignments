@@ -1,0 +1,7 @@
+C:\Users\iamdo\OneDrive\Desktop\Basic_C#_Project_Assignments\TTA_StudentDailyReport\TTA_StudentDailyReport\bin\Debug\TTA_StudentDailyReport.exe.config
+C:\Users\iamdo\OneDrive\Desktop\Basic_C#_Project_Assignments\TTA_StudentDailyReport\TTA_StudentDailyReport\bin\Debug\TTA_StudentDailyReport.exe
+C:\Users\iamdo\OneDrive\Desktop\Basic_C#_Project_Assignments\TTA_StudentDailyReport\TTA_StudentDailyReport\bin\Debug\TTA_StudentDailyReport.pdb
+C:\Users\iamdo\OneDrive\Desktop\Basic_C#_Project_Assignments\TTA_StudentDailyReport\TTA_StudentDailyReport\obj\Debug\TTA_StudentDailyReport.csprojAssemblyReference.cache
+C:\Users\iamdo\OneDrive\Desktop\Basic_C#_Project_Assignments\TTA_StudentDailyReport\TTA_StudentDailyReport\obj\Debug\TTA_StudentDailyReport.csproj.CoreCompileInputs.cache
+C:\Users\iamdo\OneDrive\Desktop\Basic_C#_Project_Assignments\TTA_StudentDailyReport\TTA_StudentDailyReport\obj\Debug\TTA_StudentDailyReport.exe
+C:\Users\iamdo\OneDrive\Desktop\Basic_C#_Project_Assignments\TTA_StudentDailyReport\TTA_StudentDailyReport\obj\Debug\TTA_StudentDailyReport.pdb
