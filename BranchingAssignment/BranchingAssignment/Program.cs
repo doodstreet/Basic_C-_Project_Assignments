@@ -14,7 +14,7 @@ namespace BranchingAssignment
             Console.WriteLine("Enter your package weight (to the closest pound):");
             int packLbs = Convert.ToInt32(Console.ReadLine());
             string checkLbs = packLbs >= 50 ? "Package too heavy to be shipped via Package Express. Have a good day." :
-                                                 "\nEnter package width in inches:";
+                                              "\nEnter package width in inches:";
             Console.WriteLine(checkLbs);
             int packWidth = Convert.ToInt32(Console.ReadLine());
 

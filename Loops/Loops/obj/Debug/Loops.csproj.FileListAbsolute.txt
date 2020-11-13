@@ -1,0 +1,7 @@
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Loops\Loops\obj\Debug\Loops.csprojAssemblyReference.cache
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Loops\Loops\obj\Debug\Loops.pdb
