@@ -22,6 +22,12 @@ namespace BooleanLogic
             bool qualify = (age >= 15 && duis == 0 && tickets <= 3);
             Console.WriteLine(qualify);
 
+
+            int num1 = 7;
+            int num2 = 12;
+            string result = num1 > num2 ? "num1 is greater than num2" : "num 2 is greater than num1";
+            Console.WriteLine(result);
+
             Console.ReadLine();
 
         }
