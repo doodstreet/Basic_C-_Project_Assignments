@@ -43,7 +43,6 @@ namespace BranchingAssignment
                     Console.WriteLine("Your estimated total for shipping this package is: $" + totalPrice);
                 }
             }
-            //Console.WriteLine(totalPrice);
 
 
             Console.WriteLine("Thank you");
