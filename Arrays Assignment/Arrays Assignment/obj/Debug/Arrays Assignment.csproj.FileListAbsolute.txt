@@ -1,0 +1,7 @@
+C:\Users\iamdo\Source\Repos\Arrays Assignment\Arrays Assignment\obj\Debug\Arrays Assignment.csproj.CoreCompileInputs.cache
+C:\Users\iamdo\Source\Repos\Arrays Assignment\Arrays Assignment\bin\Debug\Arrays Assignment.exe.config
+C:\Users\iamdo\Source\Repos\Arrays Assignment\Arrays Assignment\bin\Debug\Arrays Assignment.exe
+C:\Users\iamdo\Source\Repos\Arrays Assignment\Arrays Assignment\bin\Debug\Arrays Assignment.pdb
+C:\Users\iamdo\Source\Repos\Arrays Assignment\Arrays Assignment\obj\Debug\Arrays Assignment.exe
+C:\Users\iamdo\Source\Repos\Arrays Assignment\Arrays Assignment\obj\Debug\Arrays Assignment.pdb
+C:\Users\iamdo\Source\Repos\Arrays Assignment\Arrays Assignment\obj\Debug\Arrays Assignment.csprojAssemblyReference.cache
