@@ -1,0 +1,7 @@
+C:\Users\iamdo\Source\Repos\ConAppAssignment_1\ConAppAssignment_1\bin\Debug\ConAppAssignment_1.exe.config
+C:\Users\iamdo\Source\Repos\ConAppAssignment_1\ConAppAssignment_1\bin\Debug\ConAppAssignment_1.exe
+C:\Users\iamdo\Source\Repos\ConAppAssignment_1\ConAppAssignment_1\bin\Debug\ConAppAssignment_1.pdb
+C:\Users\iamdo\Source\Repos\ConAppAssignment_1\ConAppAssignment_1\obj\Debug\ConAppAssignment_1.csprojAssemblyReference.cache
+C:\Users\iamdo\Source\Repos\ConAppAssignment_1\ConAppAssignment_1\obj\Debug\ConAppAssignment_1.csproj.CoreCompileInputs.cache
+C:\Users\iamdo\Source\Repos\ConAppAssignment_1\ConAppAssignment_1\obj\Debug\ConAppAssignment_1.exe
+C:\Users\iamdo\Source\Repos\ConAppAssignment_1\ConAppAssignment_1\obj\Debug\ConAppAssignment_1.pdb
