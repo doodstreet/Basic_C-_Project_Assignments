@@ -1,0 +1,7 @@
+C:\Users\iamdo\Source\Repos\ClassObjectAssignment\ClassObjectAssignment\bin\Debug\ClassObjectAssignment.exe.config
+C:\Users\iamdo\Source\Repos\ClassObjectAssignment\ClassObjectAssignment\bin\Debug\ClassObjectAssignment.exe
+C:\Users\iamdo\Source\Repos\ClassObjectAssignment\ClassObjectAssignment\bin\Debug\ClassObjectAssignment.pdb
+C:\Users\iamdo\Source\Repos\ClassObjectAssignment\ClassObjectAssignment\obj\Debug\ClassObjectAssignment.csprojAssemblyReference.cache
+C:\Users\iamdo\Source\Repos\ClassObjectAssignment\ClassObjectAssignment\obj\Debug\ClassObjectAssignment.csproj.CoreCompileInputs.cache
+C:\Users\iamdo\Source\Repos\ClassObjectAssignment\ClassObjectAssignment\obj\Debug\ClassObjectAssignment.exe
+C:\Users\iamdo\Source\Repos\ClassObjectAssignment\ClassObjectAssignment\obj\Debug\ClassObjectAssignment.pdb
