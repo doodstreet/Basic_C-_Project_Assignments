@@ -8,18 +8,14 @@ namespace PersonName
 {
     public class Person
     {
-        string FirstName = "Dave";
-        string LastName = "Street";
+        public string FirstName { get;set; }
+        public string LastName { get; set; }
    
         public void SayName()
         {
             string FullName = FirstName + LastName;
             Console.WriteLine("Name: " + FullName);
             return;
-        }
-
-        public 
-                   
-        
+        }                          
     }
 }

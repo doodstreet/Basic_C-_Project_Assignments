@@ -10,7 +10,16 @@ namespace PersonName
     {
         static void Main(string[] args)
         {
-            Person person = new Person();
+            //Person person = new Person();// instantiate class person 
+            //person.FirstName = "Dave"; //add values
+            //person.LastName = "Street";
+
+            Employee person = new Employee(); // inheriting from class Person
+            person.FirstName = "Sample";
+            person.LastName = "Student";
+
+
+
 
             person.SayName();
             Console.ReadLine();
