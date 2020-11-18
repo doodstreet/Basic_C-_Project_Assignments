@@ -1,0 +1,7 @@
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\OptionAssingmentPg227\OptionAssingmentPg227\bin\Debug\OptionAssingmentPg227.exe.config
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\OptionAssingmentPg227\OptionAssingmentPg227\bin\Debug\OptionAssingmentPg227.exe
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\OptionAssingmentPg227\OptionAssingmentPg227\bin\Debug\OptionAssingmentPg227.pdb
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\OptionAssingmentPg227\OptionAssingmentPg227\obj\Debug\OptionAssingmentPg227.csprojAssemblyReference.cache
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\OptionAssingmentPg227\OptionAssingmentPg227\obj\Debug\OptionAssingmentPg227.csproj.CoreCompileInputs.cache
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\OptionAssingmentPg227\OptionAssingmentPg227\obj\Debug\OptionAssingmentPg227.exe
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\OptionAssingmentPg227\OptionAssingmentPg227\obj\Debug\OptionAssingmentPg227.pdb
