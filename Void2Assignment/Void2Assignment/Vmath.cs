@@ -14,6 +14,12 @@ namespace Void2Assignment
             Console.WriteLine("Your number divided by two = " + x);
             return;
         }
+        public void Name(out string y)
+        {
+            string name = "Dave";
+            y = name;
+        }
+
         public int Math(int num1, int num2)
         {
             return num1 + num2;
@@ -22,7 +28,7 @@ namespace Void2Assignment
         {
             return num1 + num2;
         }
-        public static int DoMath( int num1, int num2)
+        public static int DoMath(int num1, int num2)
         {
             return num1 * num2;
         }
