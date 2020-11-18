@@ -9,7 +9,12 @@ namespace VoidAssignment
             
             Math math = new Math();
 
-            math.doMath(3, 5);
+            Math.doMath(3, 5);
+            Math.doMath(num1: 3, num2: 5);
+
+            Console.ReadLine();
+            
         }
+
     }
 }
