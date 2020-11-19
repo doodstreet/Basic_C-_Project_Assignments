@@ -13,7 +13,7 @@ namespace PersonName
    
         public void SayName()
         {
-            string FullName = FirstName + LastName;
+            string FullName = FirstName + " " +  LastName;
             Console.WriteLine("Name: " + FullName);
             return;
         }                          

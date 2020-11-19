@@ -8,6 +8,6 @@ namespace PersonName
 {
     public class Employee : Person
     {
-        int id = 13;
+        public int Id { get; set; }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\iamdo\Source\Repos\AbstractPerson\AbstractPerson\bin\Debug\AbstractPerson.exe.config
+C:\Users\iamdo\Source\Repos\AbstractPerson\AbstractPerson\bin\Debug\AbstractPerson.exe
+C:\Users\iamdo\Source\Repos\AbstractPerson\AbstractPerson\bin\Debug\AbstractPerson.pdb
+C:\Users\iamdo\Source\Repos\AbstractPerson\AbstractPerson\obj\Debug\AbstractPerson.csprojAssemblyReference.cache
+C:\Users\iamdo\Source\Repos\AbstractPerson\AbstractPerson\obj\Debug\AbstractPerson.csproj.CoreCompileInputs.cache
+C:\Users\iamdo\Source\Repos\AbstractPerson\AbstractPerson\obj\Debug\AbstractPerson.exe
+C:\Users\iamdo\Source\Repos\AbstractPerson\AbstractPerson\obj\Debug\AbstractPerson.pdb

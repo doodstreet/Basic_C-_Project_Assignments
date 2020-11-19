@@ -15,11 +15,9 @@ namespace PersonName
             //person.LastName = "Street";
 
             Employee person = new Employee(); // inheriting from class Person
+
             person.FirstName = "Sample";
             person.LastName = "Student";
-
-
-
 
             person.SayName();
             Console.ReadLine();
