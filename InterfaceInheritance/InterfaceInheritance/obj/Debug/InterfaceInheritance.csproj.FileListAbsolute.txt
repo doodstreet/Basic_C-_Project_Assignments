@@ -1,0 +1,7 @@
+C:\Users\iamdo\Source\Repos\InterfaceInheritance\InterfaceInheritance\bin\Debug\InterfaceInheritance.exe.config
+C:\Users\iamdo\Source\Repos\InterfaceInheritance\InterfaceInheritance\bin\Debug\InterfaceInheritance.exe
+C:\Users\iamdo\Source\Repos\InterfaceInheritance\InterfaceInheritance\bin\Debug\InterfaceInheritance.pdb
+C:\Users\iamdo\Source\Repos\InterfaceInheritance\InterfaceInheritance\obj\Debug\InterfaceInheritance.csprojAssemblyReference.cache
+C:\Users\iamdo\Source\Repos\InterfaceInheritance\InterfaceInheritance\obj\Debug\InterfaceInheritance.csproj.CoreCompileInputs.cache
+C:\Users\iamdo\Source\Repos\InterfaceInheritance\InterfaceInheritance\obj\Debug\InterfaceInheritance.exe
+C:\Users\iamdo\Source\Repos\InterfaceInheritance\InterfaceInheritance\obj\Debug\InterfaceInheritance.pdb
