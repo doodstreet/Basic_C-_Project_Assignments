@@ -1,7 +1,0 @@
-C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\PersonName\PersonName\bin\Debug\PersonName.exe.config
-C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\PersonName\PersonName\bin\Debug\PersonName.exe
-C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\PersonName\PersonName\bin\Debug\PersonName.pdb
-C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\PersonName\PersonName\obj\Debug\PersonName.csprojAssemblyReference.cache
-C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\PersonName\PersonName\obj\Debug\PersonName.csproj.CoreCompileInputs.cache
-C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\PersonName\PersonName\obj\Debug\PersonName.exe
-C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\PersonName\PersonName\obj\Debug\PersonName.pdb

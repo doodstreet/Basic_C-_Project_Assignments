@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PersonName
+namespace GenericTypeThings
 {
-    public class Employee : Person
+    public class Employee<T>
     {
-        public int Id { get; set; }
+        public List<T> Things { get; set; }
     }
 }

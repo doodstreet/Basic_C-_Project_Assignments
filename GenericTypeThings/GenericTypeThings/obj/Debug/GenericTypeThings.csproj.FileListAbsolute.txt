@@ -1,0 +1,7 @@
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\GenericTypeThings\GenericTypeThings\bin\Debug\GenericTypeThings.exe.config
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\GenericTypeThings\GenericTypeThings\bin\Debug\GenericTypeThings.exe
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\GenericTypeThings\GenericTypeThings\bin\Debug\GenericTypeThings.pdb
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\GenericTypeThings\GenericTypeThings\obj\Debug\GenericTypeThings.csprojAssemblyReference.cache
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\GenericTypeThings\GenericTypeThings\obj\Debug\GenericTypeThings.csproj.CoreCompileInputs.cache
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\GenericTypeThings\GenericTypeThings\obj\Debug\GenericTypeThings.exe
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\GenericTypeThings\GenericTypeThings\obj\Debug\GenericTypeThings.pdb
