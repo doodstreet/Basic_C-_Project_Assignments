@@ -1,0 +1,7 @@
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\StructAssignment\StructAssignment\bin\Debug\StructAssignment.exe.config
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\StructAssignment\StructAssignment\bin\Debug\StructAssignment.exe
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\StructAssignment\StructAssignment\bin\Debug\StructAssignment.pdb
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\StructAssignment\StructAssignment\obj\Debug\StructAssignment.csprojAssemblyReference.cache
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\StructAssignment\StructAssignment\obj\Debug\StructAssignment.csproj.CoreCompileInputs.cache
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\StructAssignment\StructAssignment\obj\Debug\StructAssignment.exe
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\StructAssignment\StructAssignment\obj\Debug\StructAssignment.pdb
