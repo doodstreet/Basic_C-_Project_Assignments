@@ -1,0 +1,7 @@
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\FilIe_IO_logAssignment\FilIe_IO_logAssignment\bin\Debug\FilIe_IO_logAssignment.exe.config
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\FilIe_IO_logAssignment\FilIe_IO_logAssignment\bin\Debug\FilIe_IO_logAssignment.exe
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\FilIe_IO_logAssignment\FilIe_IO_logAssignment\bin\Debug\FilIe_IO_logAssignment.pdb
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\FilIe_IO_logAssignment\FilIe_IO_logAssignment\obj\Debug\FilIe_IO_logAssignment.csprojAssemblyReference.cache
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\FilIe_IO_logAssignment\FilIe_IO_logAssignment\obj\Debug\FilIe_IO_logAssignment.csproj.CoreCompileInputs.cache
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\FilIe_IO_logAssignment\FilIe_IO_logAssignment\obj\Debug\FilIe_IO_logAssignment.exe
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\FilIe_IO_logAssignment\FilIe_IO_logAssignment\obj\Debug\FilIe_IO_logAssignment.pdb
