@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0mIKVUVgWEik3hASfJ8UP2AMrsktkHOzSQuP8yuFq8NEM9ndVOp4DR/DS83mpxfi5DEXCuhObZMIDSv3yOEA5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iamdo\\OneDrive\\Desktop\\Basic_Csharp_Programs\\Casino\\Casino.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iamdo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\iamdo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
