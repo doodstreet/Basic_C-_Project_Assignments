@@ -51,54 +51,10 @@ namespace Car_Insurance.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,FullCoverage, Quote")] Insuree insuree)
         {
-            {
-                insuree.Quote = 50.0m;
-
-                for (int i = 0; i < insuree.SpeedingTickets; i++)
-                {
-                    insuree.Quote += 10;
-                }
-
-                if (DateTime.Now.Year - insuree.DateOfBirth.Year < 18)
-                {
-                    insuree.Quote += 100;
-                }
-                if (DateTime.Now.Year - insuree.DateOfBirth.Year > 18 && DateTime.Now.Year - insuree.DateOfBirth.Year < 25)
-                {
-                    insuree.Quote += 25;
-                }
-                if (DateTime.Now.Year - insuree.DateOfBirth.Year > 100)
-                {
-                    insuree.Quote += 25;
-                }
-                if (Convert.ToInt32(insuree.CarYear) < 2000)
-                {
-                    insuree.Quote += 25;
-                }
-                if (Convert.ToInt32(insuree.CarYear) > 2015)
-                {
-                    insuree.Quote += 25;
-                }
-                if (insuree.CarMake == "Porsche")
-                {
-                    insuree.Quote += 25;
-                }
-                if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera")
-                {
-                    insuree.Quote += 25;
-                }
-                if (insuree.DUI == true)
-                {
-                    insuree.Quote *= 1.25m;
-                }
-                if (insuree.FullCoverage == true)
-                {
-                    insuree.Quote *= 1.50m;
-                }
-
-            }
+                    
             if (ModelState.IsValid)
             {
+                insuree.Quote = CalculateQuote(insuree);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Admin");
@@ -106,6 +62,54 @@ namespace Car_Insurance.Controllers
 
             return View(insuree);
         }
+        public decimal CalculateQuote(Insuree insuree)
+        {
+
+            insuree.Quote = 50.0m;
+
+            if (DateTime.Now.Year - insuree.DateOfBirth.Year < 18)
+            {
+                insuree.Quote += 100;
+            }
+            if (DateTime.Now.Year - insuree.DateOfBirth.Year > 18 && DateTime.Now.Year - insuree.DateOfBirth.Year < 25)
+            {
+                insuree.Quote += 25;
+            }
+            if (DateTime.Now.Year - insuree.DateOfBirth.Year > 100)
+            {
+                insuree.Quote += 25;
+            }
+            if (Convert.ToInt32(insuree.CarYear) < 2000)
+            {
+                insuree.Quote += 25;
+            }
+            if (Convert.ToInt32(insuree.CarYear) > 2015)
+            {
+                insuree.Quote += 25;
+            }
+            if (insuree.CarMake == "Porsche")
+            {
+                insuree.Quote += 25;
+            }
+            if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera")
+            {
+                insuree.Quote += 25;
+            }
+            for (int i = 0; i < insuree.SpeedingTickets; i++)
+            {
+                insuree.Quote += 10;
+            }
+            if (insuree.DUI == true)
+            {
+                insuree.Quote *= 1.25m;
+            }
+            if (insuree.FullCoverage == true)
+            {
+                insuree.Quote *= 1.50m;
+            }
+            return insuree.Quote;
+        }
+
 
         // GET: Insuree/Edit/5
         public ActionResult Edit(int? id)
@@ -131,9 +135,10 @@ namespace Car_Insurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = CalculateQuote(insuree);
                 db.Entry(insuree).State = EntityState.Modified;
                 db.SaveChanges();
-                return RedirectToAction("Create");
+                return RedirectToAction("Index");
             }
             return View(insuree);
         }

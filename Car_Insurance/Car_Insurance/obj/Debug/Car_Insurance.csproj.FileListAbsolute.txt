@@ -1,3 +1,4 @@
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Car_Insurance\Car_Insurance\bin\EntityFramework.xml
 C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Car_Insurance\Car_Insurance\bin\Car_Insurance.dll.config
 C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Car_Insurance\Car_Insurance\bin\Car_Insurance.dll
 C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Car_Insurance\Car_Insurance\bin\Car_Insurance.pdb
@@ -64,7 +65,6 @@ C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Car_Insurance\Car_Insuranc
 C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Car_Insurance\Car_Insurance\bin\System.Web.WebPages.dll
 C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Car_Insurance\Car_Insurance\bin\System.Web.WebPages.Razor.dll
 C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Car_Insurance\Car_Insurance\bin\WebGrease.dll
-C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Car_Insurance\Car_Insurance\bin\EntityFramework.xml
 C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Car_Insurance\Car_Insurance\bin\EntityFramework.SqlServer.xml
 C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Car_Insurance\Car_Insurance\bin\System.Web.Helpers.xml
 C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Car_Insurance\Car_Insurance\bin\System.Web.Mvc.xml
@@ -76,7 +76,6 @@ C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Car_Insurance\Car_Insuranc
 C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Car_Insurance\Car_Insurance\bin\Newtonsoft.Json.xml
 C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Car_Insurance\Car_Insurance\bin\Antlr3.Runtime.pdb
 C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Car_Insurance\Car_Insurance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Car_Insurance\Car_Insurance\obj\Debug\Car_Insurance.csprojAssemblyReference.cache
 C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Car_Insurance\Car_Insurance\obj\Debug\Car_Insurance.csproj.CoreCompileInputs.cache
 C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Car_Insurance\Car_Insurance\obj\Debug\Car_Insurance.csproj.CopyComplete
 C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\Car_Insurance\Car_Insurance\obj\Debug\Car_Insurance.dll
