@@ -1,0 +1,6 @@
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\LINQExample\LINQExample\bin\Debug\LINQExample.exe.config
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\LINQExample\LINQExample\bin\Debug\LINQExample.exe
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\LINQExample\LINQExample\bin\Debug\LINQExample.pdb
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\LINQExample\LINQExample\obj\Debug\LINQExample.csproj.CoreCompileInputs.cache
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\LINQExample\LINQExample\obj\Debug\LINQExample.exe
+C:\Users\iamdo\OneDrive\Desktop\Basic_Csharp_Programs\LINQExample\LINQExample\obj\Debug\LINQExample.pdb
