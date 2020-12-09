@@ -6,4 +6,4 @@ _________________________________________________________________
 
  <h4>Car Insurance<h4>
  
- <p>This project is and MVC web app that mimics a car insurance website. It takes user input on poicy information and calculates a quote based on business logic. There is also an admin page that allows staff to view all of the quotes that have been issued.<p>
+ <p>This project is and MVC web app that mimics a car insurance website. It takes user input on poicy information and calculates a quote based on business logic. There is also an admin page that allows staff to view all of the quotes that have been issued.</p>
