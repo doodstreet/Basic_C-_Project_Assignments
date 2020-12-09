@@ -1,8 +1,8 @@
 # Basic_C#_Project_Assignments
  This is a small project I made using C# and .NET Framework
  
- Projects:
- -Car_Insurance
+ <h3>Projects:<h3><br>
+ Car_Insurance
  
  Car Insurance
  
