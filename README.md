@@ -2,8 +2,7 @@
 _________________________________________________________________
  This is a small project I made using C# and .NET Framework
  
- <h3>Projects:<h3>
-   <h5>~Car_Insurance<h5> 
+ <h3>Projects:<h3> 
 
  <h4>Car Insurance<h4>
  
