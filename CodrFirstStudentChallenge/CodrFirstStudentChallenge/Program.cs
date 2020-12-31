@@ -9,7 +9,8 @@ namespace CodrFirstStudentChallenge
 
             using (var ctx = new SchoolContext())
             {
-                var stud = new Student() { StudentName = "Dave" };
+                var stud = new Student() { StudentName = "Dave",
+                                            };
 
                 ctx.Students.Add(stud);
                 ctx.SaveChanges();
